@@ -1,0 +1,8 @@
+{
+  "name": "Flo & Incubyte — US Healthtech AI Engineering WordPress Theme",
+  "description": "WCAG-compliant, high-speed WordPress 6.7+ homepage theme with Contact Form 7 Google Sheets sync, CA/FR French geolocation, and full visual customization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
